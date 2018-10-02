@@ -1,0 +1,13 @@
+E:\tugas2\CalculatorApp\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+E:\tugas2\CalculatorApp\TerbilangApp\bin\Debug\TerbilangApp.exe
+E:\tugas2\CalculatorApp\TerbilangApp\bin\Debug\TerbilangApp.pdb
+E:\tugas2\CalculatorApp\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+E:\tugas2\CalculatorApp\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+E:\tugas2\CalculatorApp\TerbilangApp\obj\Debug\TerbilangApp.csprojAssemblyReference.cache
+E:\tugas2\CalculatorApp\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+E:\tugas2\CalculatorApp\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+E:\tugas2\CalculatorApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.cache
+E:\tugas2\CalculatorApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.CoreCompileInputs.cache
+E:\tugas2\CalculatorApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.CopyComplete
+E:\tugas2\CalculatorApp\TerbilangApp\obj\Debug\TerbilangApp.exe
+E:\tugas2\CalculatorApp\TerbilangApp\obj\Debug\TerbilangApp.pdb

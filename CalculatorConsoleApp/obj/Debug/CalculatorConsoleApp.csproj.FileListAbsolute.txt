@@ -1,0 +1,13 @@
+E:\tugas2\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+E:\tugas2\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+E:\tugas2\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+E:\tugas2\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+E:\tugas2\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+E:\tugas2\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+E:\tugas2\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+E:\tugas2\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorLibrary.dll
+E:\tugas2\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorLibrary.pdb
+E:\tugas2\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CopyComplete
+F:\tugas2\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+F:\tugas2\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+F:\tugas2\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb

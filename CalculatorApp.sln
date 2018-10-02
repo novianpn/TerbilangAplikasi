@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorConsoleApp", "CalculatorConsoleApp\CalculatorConsoleApp.csproj", "{ADBC40BF-02D0-4665-B96B-A722D3FA4912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWindowsFormsApp", "CalculatorWindowsFormsApp\CalculatorWindowsFormsApp.csproj", "{ED9F643C-3215-441E-B322-6BF17411D10E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWindowsFormsApp2", "CalculatorWindowsFormsApp2\CalculatorWindowsFormsApp2.csproj", "{D26053D2-3DA4-4E20-8DA8-AA1C2A2B3861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{CC6277D6-D6E0-4113-96D0-17D2F9F88970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerbilangApp", "TerbilangApp\TerbilangApp.csproj", "{7A1AA173-79A4-4FB0-9708-5AFFDA9FB036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerbilangLibrary", "TerbilangLibrary\TerbilangLibrary.csproj", "{C5E56535-62AD-4D32-A472-B0472DF7A3C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBC40BF-02D0-4665-B96B-A722D3FA4912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBC40BF-02D0-4665-B96B-A722D3FA4912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBC40BF-02D0-4665-B96B-A722D3FA4912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBC40BF-02D0-4665-B96B-A722D3FA4912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9F643C-3215-441E-B322-6BF17411D10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9F643C-3215-441E-B322-6BF17411D10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9F643C-3215-441E-B322-6BF17411D10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9F643C-3215-441E-B322-6BF17411D10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26053D2-3DA4-4E20-8DA8-AA1C2A2B3861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26053D2-3DA4-4E20-8DA8-AA1C2A2B3861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26053D2-3DA4-4E20-8DA8-AA1C2A2B3861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26053D2-3DA4-4E20-8DA8-AA1C2A2B3861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6277D6-D6E0-4113-96D0-17D2F9F88970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6277D6-D6E0-4113-96D0-17D2F9F88970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6277D6-D6E0-4113-96D0-17D2F9F88970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6277D6-D6E0-4113-96D0-17D2F9F88970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1AA173-79A4-4FB0-9708-5AFFDA9FB036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1AA173-79A4-4FB0-9708-5AFFDA9FB036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1AA173-79A4-4FB0-9708-5AFFDA9FB036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1AA173-79A4-4FB0-9708-5AFFDA9FB036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E56535-62AD-4D32-A472-B0472DF7A3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E56535-62AD-4D32-A472-B0472DF7A3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E56535-62AD-4D32-A472-B0472DF7A3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E56535-62AD-4D32-A472-B0472DF7A3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C1E3773-8309-4215-8B6F-B96E549A363E}
+	EndGlobalSection
+EndGlobal

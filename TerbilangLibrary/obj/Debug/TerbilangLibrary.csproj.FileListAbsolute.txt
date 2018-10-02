@@ -1,0 +1,6 @@
+E:\tugas2\CalculatorApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+E:\tugas2\CalculatorApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+E:\tugas2\CalculatorApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojAssemblyReference.cache
+E:\tugas2\CalculatorApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.csproj.CoreCompileInputs.cache
+E:\tugas2\CalculatorApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+E:\tugas2\CalculatorApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb
